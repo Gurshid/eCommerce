@@ -1,0 +1,1116 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"s",
+				"save"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"ge",
+				"get"
+			],
+			[
+				"fo",
+				"formset"
+			],
+			[
+				"V",
+				"VariationInventoryFormSet"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"qu",
+				"queryset"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"Va",
+				"VariationListView"
+			],
+			[
+				"Var",
+				"VariationInventoryForm"
+			],
+			[
+				"model",
+				"modelformset_factory"
+			],
+			[
+				"q",
+				"queryset"
+			],
+			[
+				"p",
+				"product_pk"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"b",
+				"btn-default"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"Pro",
+				"ProductListView"
+			],
+			[
+				"cl",
+				"class_counter"
+			],
+			[
+				"Pr",
+				"Product"
+			],
+			[
+				"iam",
+				"image_upload_to"
+			],
+			[
+				"im",
+				"image_upload_to"
+			],
+			[
+				"P",
+				"ProductImage"
+			],
+			[
+				"slu",
+				"slugify"
+			],
+			[
+				"Product",
+				"ProductImage"
+			],
+			[
+				"__",
+				"__unicode__"
+			],
+			[
+				"ima",
+				"image_upload_to"
+			],
+			[
+				"new",
+				"new_filename"
+			],
+			[
+				"sl",
+				"slug"
+			],
+			[
+				"fi",
+				"file_extension"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"var",
+				"vari_obj"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"g",
+				"get_absolute_url"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"t",
+				"template"
+			],
+			[
+				"c",
+				"context"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"is_",
+				"is_authenticated"
+			],
+			[
+				"per",
+				"permissions"
+			],
+			[
+				"permiss",
+				"permissions"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"de",
+				"decorators"
+			],
+			[
+				"a",
+				"a_new_list"
+			],
+			[
+				"the",
+				"the_list"
+			],
+			[
+				"line",
+				"line_breaks"
+			],
+			[
+				"is",
+				"is_manager"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"redi",
+				"redis_url"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"max",
+				"max_length\tNone"
+			],
+			[
+				"Htt",
+				"HttpResponsePermanentRedirect\tclass"
+			],
+			[
+				"co",
+				"correct_answer"
+			],
+			[
+				"question",
+				"question_type"
+			],
+			[
+				"lo",
+				"login_required\tfunction"
+			],
+			[
+				"Le",
+				"LectureQuestion\tclass"
+			],
+			[
+				"Que",
+				"QuestionAnswerInline"
+			],
+			[
+				"L",
+				"LectureQuestion\tclass"
+			],
+			[
+				"for",
+				"ForeignKey\tclass"
+			],
+			[
+				"Lecture",
+				"LectureCompletion\tclass"
+			],
+			[
+				"prev",
+				"prev_item\tstatement"
+			],
+			[
+				"nex",
+				"next_item\tstatement"
+			],
+			[
+				"prv",
+				"prev_item\tstatement"
+			],
+			[
+				"fin",
+				"finished\tstatement"
+			],
+			[
+				"Lec",
+				"LectureCompletion\tclass"
+			],
+			[
+				"le",
+				"lecture_id\tstatement"
+			],
+			[
+				"ne",
+				"new_view\tstatement"
+			],
+			[
+				"con",
+				"conf\tmodule"
+			],
+			[
+				"base",
+				"base_name\tstatement"
+			],
+			[
+				"file",
+				"filename\tstatement"
+			],
+			[
+				"Question",
+				"QuestionManager"
+			],
+			[
+				"Text",
+				"TextInput\tclass"
+			],
+			[
+				"Http",
+				"Http404\tclass"
+			],
+			[
+				"next",
+				"next_page\tstatement"
+			],
+			[
+				"vide",
+				"video_file"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"help",
+				"help_text\t''"
+			],
+			[
+				"vid",
+				"video_file"
+			],
+			[
+				"get_",
+				"get_queryset"
+			],
+			[
+				"new_",
+				"new_slug\tstatement"
+			],
+			[
+				"S3",
+				"S3DirectWidget\tclass"
+			],
+			[
+				"w",
+				"widgets\tmodule"
+			],
+			[
+				"cre",
+				"create_video_tupe\tfunction"
+			],
+			[
+				"up",
+				"uploadTo"
+			],
+			[
+				"H",
+				"Http404\tclass"
+			],
+			[
+				"Video",
+				"VideoForm\tclass"
+			],
+			[
+				"Vi",
+				"VideoForm\tclass"
+			],
+			[
+				"PRE",
+				"pre_save\tstatement"
+			],
+			[
+				"Vid",
+				"Video\tclass"
+			],
+			[
+				"get_user",
+				"get_user_model\tfunction"
+			],
+			[
+				"fr",
+				"friends"
+			],
+			[
+				"ip",
+				"ip_overload"
+			],
+			[
+				"email_",
+				"email_user\tstatement"
+			],
+			[
+				"EmailF",
+				"emailfriends"
+			],
+			[
+				"Em",
+				"EmailFriends\tclass"
+			],
+			[
+				"Ema",
+				"EmailSignUp\tclass"
+			],
+			[
+				"x",
+				"x_forwarded_for\tstatement"
+			],
+			[
+				"ref",
+				"ref_id"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"j",
+				"jumbotron"
+			],
+			[
+				"data-",
+				"data-toggle"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"Date",
+				"DateTimeField\tclass"
+			],
+			[
+				"Not",
+				"NotificationAdmin\tclass"
+			],
+			[
+				"No",
+				"Notification\tclass"
+			],
+			[
+				"notifi",
+				"notified\tstatement"
+			],
+			[
+				"ses",
+				"ses\tmodule"
+			],
+			[
+				"My",
+				"MyLectureView\tclass"
+			],
+			[
+				"Suggest",
+				"SuggestionManager"
+			],
+			[
+				"Sugg",
+				"SuggestionManager\tclass"
+			],
+			[
+				"date",
+				"datetime\tclass"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/products/templates/products/variation_list.html",
+			"settings":
+			{
+				"buffer_size": 595,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/products/views.py",
+			"settings":
+			{
+				"buffer_size": 2330,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/products/mixins.py",
+			"settings":
+			{
+				"buffer_size": 955,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/products/templates/products/product_detail.html",
+			"settings":
+			{
+				"buffer_size": 1310,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/ecommerce2",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/products",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/products/templates",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/products/templates/products",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/templates",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/static_in_env",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/static_in_env/media_root",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/static_in_env/media_root/products"
+	],
+	"file_history":
+	[
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/products/urls.py",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/products/models.py",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/products/forms.py",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/templates/base.html",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/templates/navbar.html",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/ecommerce2/old_settings.py",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/products/admin.py",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/products/templates/products/product_list.html",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/products/templates/products/product_detail.html",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/products/__init__.py",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/static_in_env/static_root/css/navbar-static-top.css",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/static_in_env/static_root/css/custom.css",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/templates/home.html",
+		"/C/Users/Gurshid/Envs/ecommerce-2/Try-Django-1.8/src/templates/base.html",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/templates/javascript.html",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/products/templates/product_detail.html",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/ecommerce2/urls.py",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/requirements.txt",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/ecommerce2/settings/local.py",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/trydjango18/settings/production.py",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/trydjango18/settings/local.py",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/trydjango18/settings/base.py",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/trydjango18/wsgi.py",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/trydjango18/urls.py",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/trydjango18/old_settings.py",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/manage.py",
+		"/C/Users/Gurshid/Desktop/ecommerce-2/src/.gitignore",
+		"/C/Users/Gurshid/Envs/ecommerce-2/src/products/templates/products/product_detail.html",
+		"/C/Users/Gurshid/Envs/ecommerce-2/src/ecommerce2/urls.py",
+		"/C/Users/Gurshid/Envs/ecommerce-2/src/products/models.py",
+		"/C/Users/Gurshid/Envs/ecommerce-2/src/newsletter/views.py",
+		"/C/Users/Gurshid/Envs/ecommerce-2/src/newsletter/forms.py",
+		"/C/Users/Gurshid/Envs/ecommerce-2/src/newsletter/admin.py",
+		"/C/Users/Gurshid/Envs/ecommerce-2/Try-Django-1.8/src/newsletter/views.py",
+		"/C/Users/Gurshid/Envs/ecommerce-2/Try-Django-1.8/src/ecommerce2/__init__.py",
+		"/C/Users/Gurshid/Envs/ecommerce-2/Try-Django-1.8/src/trydjango18/urls.py",
+		"/C/Users/Gurshid/Envs/ecommerce-2/Try-Django-1.8/src/trydjango18/old_settings.py",
+		"/C/Users/Gurshid/Envs/ecommerce-2/Try-Django-1.8/src/manage.py",
+		"/C/Users/Gurshid/Envs/ecommerce-2/Try-Django-1.8/src/.gitignore",
+		"/C/Users/Gurshid/Envs/ecommerce-2/Try-Django-1.8/src/trydjango18/settings/production.py",
+		"/C/Users/Gurshid/Envs/ecommerce-2/Try-Django-1.8/src/trydjango18/settings/local.py",
+		"/C/Users/Gurshid/Envs/ecommerce-2/Try-Django-1.8/src/trydjango18/settings/base.py",
+		"/C/Users/Gurshid/Envs/ecommerce-2/Try-Django-1.8/src/trydjango18/wsgi.py",
+		"/Users/jmitch/Desktop/delete.py",
+		"/Users/jmitch/Desktop/drf/src/comments/views.py",
+		"/Users/jmitch/Desktop/drf/src/accounts/models.py",
+		"/Users/jmitch/Desktop/drf/src/comments/permissions.py",
+		"/Users/jmitch/Desktop/drf/src/videos/permissions.py",
+		"/Users/jmitch/Desktop/drf/src/videos/views.py",
+		"/Users/jmitch/Desktop/drf/src/jquery_test/installation.txt",
+		"/Users/jmitch/Desktop/jquery_test/index.html",
+		"/Users/jmitch/Desktop/jquery_test.html",
+		"/Users/jmitch/Desktop/drf/src/videos/serializers.py",
+		"/Users/jmitch/Desktop/drf/src/srvup/views.py",
+		"/Users/jmitch/Desktop/drf/src/srvup/urls.py",
+		"/Users/jmitch/Desktop/drf/src/srvup/utils.py",
+		"/Users/jmitch/Desktop/drf/src/videos/models.py",
+		"/Users/jmitch/Desktop/30daysofdjango/5_loops.py",
+		"/Users/jmitch/Desktop/30daysofdjango/5_loops",
+		"/Users/jmitch/Desktop/xpytests/sub.py",
+		"/Users/jmitch/Desktop/30daysofdjango/3_math.py",
+		"/Users/jmitch/Desktop/30daysofdjango/2_strings.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/pdfs/tm_details_download.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/accounts/admin.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/team/home.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/team/documents.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/settings/local.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/__init__.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/settings/base.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/Procfile",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/settings/production.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/celery.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/questions/views.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/sidebar.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/lectures/all.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/questions/tasks.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/questions/urls.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/accounts/models.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/team/activity.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/urls.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/teams/urls.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/accounts/urls.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/quiz/views.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/accounts/views.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/teams/views.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/settings/__init__.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/base.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/quiz/user_results_all.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/questions/models.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/questions/all.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/lectures/views.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/welcomeModal.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/navbar.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/accounts/login.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/kpj/views.py",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/accounts/join.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/videos/all.html",
+		"/Volumes/My Passport/Dropbox/projects/kpj/kpj/templates/accounts/team.html",
+		"/Users/jmitch/Dropbox/cfe/src/projects/cloudfront.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/test_css.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/login/views.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/videos/views.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/footer.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/accounts/models.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/base.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/home.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/static/static_dir/css/signin.css",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/accounts/register.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/login/forms.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/login/models.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/quiz/admin.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/videos/quiz.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/quiz/models.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/videos/models.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/analytics/ajax.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/kpj/views.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/videos/urls.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/kpj/urls.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/core_css.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/navbar.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/kpj/settings/local.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/kpj/settings/base.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/test_js.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/kpj/settings/production.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/login/urls.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/templates/videos/single.html",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/analytics/models.py",
+		"/Users/jmitch/Dropbox/projects/kpj/kpj/analytics/admin.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"C:\\Users\\Gurshid\\Desktop\\ecommerce-2\\src\\templates",
+			"C:\\Users\\Gurshid\\Desktop\\ecommerce-2",
+			"C:\\Users\\Gurshid\\Desktop\\ecommerce-2\\src",
+			"C:\\Users\\Gurshid\\Desktop\\ecommerce-2\\src\\templates",
+			"<open folders>,C:\\Users\\Gurshid\\Envs\\ecommerce-2\\Try-Django-1.8\\src,C:\\Users\\Gurshid\\Desktop\\ecommerce-2\\src,C:\\Users\\Gurshid\\Desktop\\ecommerce-2\\src\\templates",
+			"<open folders>,C:\\Users\\Gurshid\\Envs\\ecommerce-2\\Try-Django-1.8\\src,C:\\Users\\Gurshid\\Desktop\\ecommerce-2\\src",
+			"<open folders>,C:\\Users\\Gurshid\\Envs\\ecommerce-2\\Try-Django-1.8\\src",
+			"<open folders>",
+			"/Users/jmitch/Dropbox/cfe/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ecommerce",
+			"mvp_landing_logo.png",
+			"          <a class=\"navbar-brand\" href=\"/\"><img src=\"/static/img/mvp_landing_logo.png\" /></a>\n",
+			"e-commerce",
+			"MVP Landing",
+			"trydjango18",
+			"CORS",
+			"render_to_pdf",
+			"render_to",
+			"TIME_ZONE",
+			"send_mail",
+			"emai",
+			"send_email",
+			"celery",
+			"download",
+			"documents",
+			"login_required",
+			"staticfile",
+			"sidebar",
+			"active",
+			".footer",
+			"option",
+			"href='#",
+			"href=\"#",
+			"join",
+			"md",
+			"pesticide",
+			"td",
+			"pricing",
+			"all",
+			"reset",
+			"next",
+			"video",
+			"model",
+			"embed",
+			"dropdown",
+			"completed",
+			"start",
+			"quiz",
+			"print",
+			"id=",
+			"action",
+			"reverse",
+			"alert",
+			"error",
+			"ask",
+			"questions",
+			"actions",
+			"questions",
+			"transcript",
+			"Lecture",
+			"User",
+			"Lecture",
+			"reply",
+			"min-height",
+			"transcriptText",
+			"transcriptContainer",
+			"transcript",
+			"toggleTrans",
+			"print",
+			"video",
+			"remove",
+			"update",
+			"remove",
+			"url",
+			"hash",
+			"verbose_name",
+			"height",
+			"top",
+			"view",
+			"transcript",
+			"<i",
+			"fa",
+			"transcriptText",
+			"questions",
+			"span",
+			"transcript",
+			":",
+			"currentTime",
+			"cookie",
+			"current",
+			"updated",
+			"questions",
+			"krtoor6jqe",
+			"block",
+			"#wistia",
+			"id",
+			"wistia",
+			"lecture",
+			"wistia",
+			"wisita",
+			"url",
+			"filename",
+			"wistia",
+			"id",
+			"video",
+			"url",
+			"projects",
+			"filename",
+			"password",
+			"favicon",
+			"fav",
+			"bookmark it",
+			"share",
+			"information",
+			"imformation",
+			"people",
+			"someref",
+			"ip",
+			"complete",
+			"danger",
+			"500",
+			"1 month",
+			"download",
+			"progress-bar",
+			"access",
+			"plus",
+			"community",
+			"img",
+			"iphone",
+			"iphoneImg",
+			"img/apple-touch-icon-152-precomposed.png",
+			"static",
+			"unlock",
+			"unlock first",
+			"built",
+			"while we",
+			"jumbo"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ecommerce2",
+			"img/apple-touch-icon-152.png",
+			"{})",
+			"render(request,",
+			"render(",
+			")",
+			"render(request,",
+			"Coding For Entrepreneurs",
+			"CodingForEntrepreneurs.com",
+			"Coding For Entrepreneurs",
+			"CodingForEntrepreneurs.com"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/products/templates/products/variation_list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 595,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								502,
+								502
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/products/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2330,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1451,
+								1451
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 86.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/products/mixins.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								955,
+								955
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/products/templates/products/product_detail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1310,
+								1310
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 837.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 136.0
+	},
+	"pinned_build_system": "",
+	"project": "ecommerce2.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

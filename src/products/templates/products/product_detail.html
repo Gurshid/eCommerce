@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="container">
+
+	<div class="row"> 
+
+		<div class='col-sm-8'> 
+			<h2>{{ object.title }}</h2>
+
+			{% if object.productimage_set.count > 0 %}
+
+			<div>
+				{% for img in object.productimage_set.all %}
+
+				<img class= "img-responsive" src="{{ img.image.url }}"/>
+
+				{% endfor %}
+			</div>
+
+			{% endif %}
+
+			<p class="lead" style="font-size:18px">{{ object.description }}</p>
+		</div>
+
+<!-- Product Sidebar -->
+
+		<div class='col-sm-4'> 
+			<h3>{{ object.price }}</h3>
+			{% if object.variation_set.count > 1  %}
+			<select class="form-control">
+			{% for vari_obj in object.variation_set.all %}
+			<option value="{{ vari_obj.id }}">{{ vari_obj }}</option>
+			{% endfor %}
+			</select>
+			{% endif %}
+
+			<br/>
+			<a href="#">Add to cart</a>
+
+			<br/>
+			<hr/>
+
+			<p>
+				<h4>Share</h4>
+				<a href="http://www.facebook.com/sharer.php?u={{ request.build_absolute_uri }}">
+				<i class="fa fa-facebook-square fa-3x"></i>
+				</a>
+
+				<a href="'https://plus.google.com/share?url={{ request.build_absolute_uri }}" style="padding-left:10px;">
+				<i class="fa fa-google-plus-square fa-3x" style="color:#d34836" aria-hidden="true"></i>
+				</a>
+			</p>
+
+
+			<h4>Related Products</h4>
+		</div>
+
+<!-- End Product Sidebar -->
+
+	</div>
+
+</div>
+{% endblock %}
